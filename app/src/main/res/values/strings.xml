@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">iGRAM</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string-array name="complaint_type">
+        <item>Select Handyman..</item>
+        <item>Electrician</item>
+        <item>Plumber</item>
+        <item>Carpenter</item>
+        <item>Cooler</item>
+    </string-array>
+</resources>

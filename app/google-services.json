@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "378080182042",
+    "firebase_url": "https://igram-2e7f6.firebaseio.com",
+    "project_id": "igram-2e7f6",
+    "storage_bucket": "igram-2e7f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378080182042:android:cd43db046f52c270",
+        "android_client_info": {
+          "package_name": "com.example.shraddha.igram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378080182042-4cgmsrt0qrn2hr5ksr62f40upj5m2qff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shraddha.igram",
+            "certificate_hash": "4f1241708a0ebdbd9a1ec02b8b35fa687d17785e"
+          }
+        },
+        {
+          "client_id": "378080182042-hci5fn692nl8fpkoa8mauf7vpu91pt4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWF0fTQOG4hN-4WNiED39KbFkQZcIbVk0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378080182042-hci5fn692nl8fpkoa8mauf7vpu91pt4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
